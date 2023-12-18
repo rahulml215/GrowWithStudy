@@ -1,2 +1,2 @@
 # GrowWithStudy
-Created GrowWithStudy.com, an educational website meant to improve students' learning experiences via the use of HTML, CSS, JavaScript, and PHP.
+Developed GrowWithStudy.com, an innovative educational website designed to enhance the learning experience for students using HTML,CSS,JavaScript and PHP.
